@@ -1,6 +1,6 @@
 # Hi, I'm Abdur Rakib Rony 👋
 
-As a web developer, I excel in creating and managing high-performance websites and applications. With extensive experience in both front-end and back-end development, I deliver scalable, robust solutions to complex problems. My strategic approach and meticulous attention to detail ensure the integration of cutting-edge technologies. Dedicated to excellence, I significantly contribute to the success and growth of every team and organization I join.
+Welcome to my GitHub profile! I am a dedicated web developer with a strong focus on creating and managing high-performance websites and applications. With extensive experience in both front-end and back-end development, I specialize in delivering scalable, robust solutions to complex problems. My strategic approach and meticulous attention to detail ensure the integration of cutting-edge technologies, contributing significantly to the success and growth of every team and organization I join.
 
 ## 🚀 Expertise
 
@@ -28,12 +28,12 @@ Shaplakoli Adarsha Secondary School, Jibannagar, Chuadanga
 **NetCoden Inc.**  
 *Aug 2023 - Present*
 
-- Worked on CRM projects utilizing a diverse tech stack.
 - Developed and maintained CRM applications using modern web technologies.
 - Ensured clarity, conciseness, and timely delivery of all project components.
 - Adapted quickly to new technologies and frameworks as project requirements evolved.
+- Worked on CRM projects utilizing a diverse tech stack.
 
-**Technologies used:**
+**Technologies used:**  
 Html, Css, Bootstrap, JavaScript, Vue.js, Vuex, React, Next.js, Node.js, Adonis.js, Typescript, MySQL, MongoDB, Redis, Socket.io, Git, GitHub, Bitbucket, Jira
 
 ### Full-stack Developer
@@ -45,7 +45,7 @@ Html, Css, Bootstrap, JavaScript, Vue.js, Vuex, React, Next.js, Node.js, Adonis.
 - Architected and implemented scalable and efficient solutions using modern technologies.
 - Collaborated with stakeholders to gather requirements, define project scope, and prioritize tasks.
 
-**Technologies used:**
+**Technologies used:**  
 Html, Css, Styled Components, Tailwindcss, Shadcn, JavaScript, React, Next.js, Node.js, Express.js, Redux, Zustand, Typescript, MongoDB, Redis, Socket.io, Git, GitHub, Notion, DigitalOcean
 
 ### Full-stack Developer
@@ -56,14 +56,20 @@ Html, Css, Styled Components, Tailwindcss, Shadcn, JavaScript, React, Next.js, N
 - Collaborated with cross-functional teams to design, develop, and deploy new features.
 - Optimized application performance and ensured high levels of security.
 
-**Technologies used:**
+**Technologies used:**  
 Html, Css, Styled Components, Tailwindcss, JavaScript, React, Node.js, Express.js, Redux, Zustand, MongoDB, Redis, Git, GitHub, Notion, DigitalOcean
+
+## 🏆 Achievements
+
+- Successfully led and delivered multiple high-profile projects on time and within budget.
+- Consistently received positive feedback from clients and stakeholders for exceptional performance and attention to detail.
+- Implemented innovative solutions that improved efficiency and user satisfaction across various applications.
 
 ## 📫 Contact Me
 
-- Email: [rakib.devatmern@gmail.com](mailto:rakib.devatmern@gmail.com)
-- LinkedIn: [linkedin.com/in/abdur-rakib-rony](https://www.linkedin.com/in/abdur-rakib-rony)
-- Portfolio: [yourportfolio.com](http://abdurrakibrony.vercel.app/)]
+- **Email:** [rakib.devatmern@gmail.com](mailto:rakib.devatmern@gmail.com)
+- **LinkedIn:** [linkedin.com/in/abdur-rakib-rony](https://www.linkedin.com/in/abdur-rakib-rony)
+- **Portfolio:** [abdurrakibrony.vercel.app](http://abdurrakibrony.vercel.app/)
 
 ---
 
