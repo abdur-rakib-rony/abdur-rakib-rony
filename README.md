@@ -1,6 +1,6 @@
 # Hi, I'm Abdur Rakib Rony 👋
 
-Welcome to my GitHub profile! I am a dedicated web developer with a strong focus on creating and managing high-performance websites and applications. With extensive experience in both front-end and back-end development, I specialize in delivering scalable, robust solutions to complex problems. My strategic approach and meticulous attention to detail ensure the integration of cutting-edge technologies, contributing significantly to the success and growth of every team and organization I join.
+Seasoned web developer with a proven track record in architecting and implementing high-performance websites and applications. Leveraging extensive full-stack expertise, I specialize in delivering scalable, robust solutions to complex technological challenges. My strategic approach, coupled with meticulous attention to detail, ensures the seamless integration of cutting-edge technologies. Committed to excellence and continuous improvement, I consistently drive innovation and contribute significantly to team productivity and organizational growth.
 
 ## 🚀 Expertise
 
@@ -38,7 +38,7 @@ Html, Css, Bootstrap, JavaScript, Vue.js, Vuex, React, Next.js, Node.js, Adonis.
 
 ### Full-stack Developer
 **Ichchapuron Ltd.**  
-*July 2022 - June 2023*
+*July 2021 - June 2023*
 
 - Spearheaded the development of multiple e-commerce projects.
 - Led and managed development teams to ensure clarity, conciseness, and timely delivery of project components.
@@ -48,9 +48,9 @@ Html, Css, Bootstrap, JavaScript, Vue.js, Vuex, React, Next.js, Node.js, Adonis.
 **Technologies used:**  
 Html, Css, Styled Components, Tailwindcss, Shadcn, JavaScript, React, Next.js, Node.js, Express.js, Redux, Zustand, Typescript, MongoDB, Redis, Socket.io, Git, GitHub, Notion, DigitalOcean
 
-### Full-stack Developer
-**Markosis Pvt. Ltd.**  
-*November 2021 - June 2022*
+### Full-stack Developer (Part-Time)
+**Evertale Pty. Ltd.**  
+*May 2024 - Continued*
 
 - Developed and maintained scalable and responsive web applications.
 - Collaborated with cross-functional teams to design, develop, and deploy new features.
